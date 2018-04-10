@@ -11,8 +11,11 @@ The game is over when all the cards have been matched.
 Timer will start on the first card click.
 
 Star rating will be :
+
 3 stars for maximum 16 moves
+
 2 stars for moves between 16 and 26
+
 1 star for more than 26 moves
 
 # To play
